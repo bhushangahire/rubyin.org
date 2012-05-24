@@ -37,7 +37,7 @@ header[role='banner'] {
   
   .logo {
     @include left-column;
-    @include replace-text("ruby-australia-logo.png");
+    @include replace-text("rubyin-logo.png");
     width: 124px;
     height: 129px;
   }
