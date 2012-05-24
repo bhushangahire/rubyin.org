@@ -426,6 +426,7 @@ nav * {
   float: right;
   overflow: hidden;
   *zoom: 1;
+  margin-top: -160px;
 }
 @media screen and (max-width: 1000px) {
   /* line 59, ../../stylesheets/screen.scss */
@@ -435,23 +436,23 @@ nav * {
     width: 90%;
   }
 }
-/* line 63, ../../stylesheets/screen.scss */
+/* line 64, ../../stylesheets/screen.scss */
 [role='main'] section {
   margin-bottom: 5em;
 }
 
-/* line 66, ../../stylesheets/screen.scss */
+/* line 67, ../../stylesheets/screen.scss */
 .meetup-locations {
   margin: 0;
   padding: 0;
 }
-/* line 69, ../../stylesheets/screen.scss */
+/* line 70, ../../stylesheets/screen.scss */
 .meetup-locations li {
   display: block;
 }
 
 /* Index page */
-/* line 74, ../../stylesheets/screen.scss */
+/* line 75, ../../stylesheets/screen.scss */
 #mission-statement {
   font-size: 150%;
   font-weight: bold;
@@ -459,7 +460,7 @@ nav * {
   margin-bottom: 2em;
 }
 @media screen and (max-width: 760px) {
-  /* line 74, ../../stylesheets/screen.scss */
+  /* line 75, ../../stylesheets/screen.scss */
   #mission-statement {
     font-weight: normal;
     font-size: 1.1em;
@@ -467,17 +468,17 @@ nav * {
 }
 
 /* Committee members page */
-/* line 83, ../../stylesheets/screen.scss */
+/* line 84, ../../stylesheets/screen.scss */
 #members article {
   border-bottom: 1px solid #999;
   padding-bottom: 1.5em;
   margin-bottom: 3em;
 }
-/* line 85, ../../stylesheets/screen.scss */
+/* line 86, ../../stylesheets/screen.scss */
 #members article:last-child {
   border: 0;
 }
-/* line 90, ../../stylesheets/screen.scss */
+/* line 91, ../../stylesheets/screen.scss */
 #members article img {
   float: right;
   width: 150px;
@@ -487,39 +488,39 @@ nav * {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
-/* line 95, ../../stylesheets/screen.scss */
+/* line 96, ../../stylesheets/screen.scss */
 #members article header, #members article div {
   margin-right: 160px;
 }
-/* line 98, ../../stylesheets/screen.scss */
+/* line 99, ../../stylesheets/screen.scss */
 #members article h3, #members article p {
   margin-top: 0;
 }
-/* line 100, ../../stylesheets/screen.scss */
+/* line 101, ../../stylesheets/screen.scss */
 #members article .position {
   font-size: 0.9em;
   font-style: italic;
   color: #777;
 }
-/* line 102, ../../stylesheets/screen.scss */
+/* line 103, ../../stylesheets/screen.scss */
 #members article h3 {
   font-size: 1.25em;
   margin-bottom: 0.2em;
 }
 
-/* line 109, ../../stylesheets/screen.scss */
+/* line 110, ../../stylesheets/screen.scss */
 form {
   margin: 0;
   padding: 0;
 }
 
-/* line 114, ../../stylesheets/screen.scss */
+/* line 115, ../../stylesheets/screen.scss */
 fieldset {
   border: none;
   padding: 0 0 1.5em 0;
 }
 
-/* line 119, ../../stylesheets/screen.scss */
+/* line 120, ../../stylesheets/screen.scss */
 label {
   display: inline-block;
   float: left;
@@ -528,20 +529,20 @@ label {
   margin-right: 10px;
 }
 
-/* line 127, ../../stylesheets/screen.scss */
+/* line 128, ../../stylesheets/screen.scss */
 input {
   margin-bottom: 0.5em;
   width: 300px;
 }
 
-/* line 133, ../../stylesheets/screen.scss */
+/* line 134, ../../stylesheets/screen.scss */
 footer[role="contentinfo"] {
   overflow: hidden;
   *zoom: 1;
   clear: both;
   padding: 2em 0;
 }
-/* line 139, ../../stylesheets/screen.scss */
+/* line 140, ../../stylesheets/screen.scss */
 footer[role="contentinfo"] small {
   width: 920px;
   margin-left: 10px;
