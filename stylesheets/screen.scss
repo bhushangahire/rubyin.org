@@ -58,7 +58,7 @@ nav {
 
 [role='main'] {
   @include right-column;
-  margin-top: -160px;
+  margin-top: -120px;
   text-align: justify; 
   @include respond-to(tablet) { float: none; margin: 0 17px; width: 90%; }
   

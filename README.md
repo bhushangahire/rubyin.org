@@ -1,6 +1,6 @@
-# ruby.org.au
+# rubyin.org
 
-The `ruby.org.au` site is a static site hosted with Github Pages.
+The `rubyin.org` site is a static site hosted with Github Pages.
 
 * Content is in `/pages` as Haml templates
 * Styles are `/stylesheets`, compiled using compass
@@ -40,7 +40,7 @@ As a contributor, your workflow would look something like this:
 
 ```
 # Assuming `upstream` is the name of the git remote for the official
-# ruby.org.au repository, and `origin` is your own fork.
+# rubyin.org repository, and `origin` is your own fork.
 
 # Make sure you're building on the most up-to-date version
 git fetch upstream && git merge upstream/master
